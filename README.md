@@ -11,4 +11,4 @@ API USED:-->
 MULTICOMPANIES STOCKS LIST LIKE GOOGLE, FACEBOOK, JPMorgan.
 
 WEBSITE DEPLOYED LINK
-[STOCK MARKET] (harmonious-gelato-aa2c98.netlify.app)
+[STOCK MARKET] (https://harmonious-gelato-aa2c98.netlify.app/)
